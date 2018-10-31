@@ -1,0 +1,16 @@
+{
+  "name": "express-practice2",
+  "version": "1.0.0",
+  "description": "express practice 2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Lee",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "expres": "0.0.5",
+    "express": "^4.16.3"
+  }
+}
